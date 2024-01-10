@@ -3,6 +3,8 @@
 🔭 I’m currently learning App Development with Flutter
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
+## Development Skills
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,wasm)](https://skillicons.dev)
 
 <!--
